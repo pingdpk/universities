@@ -1,9 +1,9 @@
 import React from 'react'
-const About = () => {
+const Contact = () => {
     return (
         <div className='unhandled'>
-            About goes here!
+            Contact goes here!
         </div>
 
     )};
-export default About;
+export default Contact;
